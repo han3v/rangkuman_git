@@ -1,0 +1,13 @@
+==== intro git ====
+
+Deskripsi GIT
+
+GIT adalah salah satu vcs(version control system) yang dibuat oleh Linus Torvalds
+git bisanya di gunakan untuk menyimpan sebuah code dan juga digunakan untuk membangun sistem bersama-sama
+sesama pengembang
+
+Tools Environment
+1.akun git
+2.terminal git
+3.vscode
+4.sourcetree

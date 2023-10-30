@@ -1,0 +1,10 @@
+==== fundamental 2 GIT ====
+git init = digunakan menginisialisi repository project kita
+git config = untuk mengkonfigurasi username, dan password pada akun github atau gitlab 
+git status =  untuk mengetahui status file
+git add = digunakan untuk memasukkan file ke staging area 
+git log=  untuk melihat riwayat
+git commit = untuk mencatat perubahan
+git clone = untuk mengcopy file project dari akun git
+git push =  unutk mengirim filr project ke repository akun git
+git pull =  untuk mengambil commit dari server 

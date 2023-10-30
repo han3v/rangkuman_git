@@ -1,0 +1,13 @@
+==== Fundamental GIT ====
+
+Pengenalan perintah dasar sering dilakukan untuk mengoperasikan GIT
+perintah git yang paling umum
+1.git init
+2.git config
+3.git status
+4.git add
+5.git commit
+6.git clone
+7.git remote
+8.git push
+9.git pull

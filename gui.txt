@@ -1,0 +1,6 @@
+==== GUI Tools ====
+
+Sourcetree adalah software git berbasis GUI(grapic user interface), 
+yang digunakan untuk mempermudah dalam melakukan branch(cabang),merge(menggabungkan) dan berbagai macam 
+yang sering kita lakukan dengan CLI, pada software ini untuk versi lama membutuhkan sedikit konfigurasi namun 
+untuk versi terbaru sudah auto konfigurasinya. 
